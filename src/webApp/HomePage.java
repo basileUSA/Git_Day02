@@ -12,4 +12,8 @@ public class HomePage {
 
             //Logo
 
+
+    //more changes. add more things
+    // footer
+
 }
