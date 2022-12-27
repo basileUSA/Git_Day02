@@ -8,5 +8,8 @@ public class Sale {
     // special promos
 
 
+    // more sales
+    // new conditions
+
 
 }
